@@ -17,8 +17,8 @@ sky:
     password: czg020525
     database: 10
   wechat:
-    appid: wxb161ded9239055a5
-    secret: c90757c5fc1d5d540422166aef503262
+    appid: xxxx
+    secret: xxx
     mchid : 1561414331
     mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
     privateKeyFilePath: D:\pay\apiclient_key.pem
